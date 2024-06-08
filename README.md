@@ -1,4 +1,9 @@
 # Quickrview
+![Best Routes](pictures/best_ routes.png)
+![GMM](pictures/GMM devide angle according to angle frequency.png)
+![Progress](pictures/progress.gif)
+![Classified Cities](pictures/classfied_cities.png)
+![TSP&TE](pictures/TSP&TE.png)
 
 # Background
 I am planning bus routes for a project in the Wupenicity International Survey Competition (Traffic). Despite searching online, I have not found any open-source projects for traffic evacuation problems. I aim to develop a new algorithm to solve various optimization problems for central point evacuation using the radiating routes model, especially those involving thousands of points.
