@@ -1,6 +1,8 @@
 # Quickrview
-![Best Routes](pictures/best_routes.png)![GMM](pictures/GMM\ devide\ angle\ according\ to\ angle\ frequency.png)
-![Progress](pictures/progress.gif)![Classified Cities](pictures/classfied_cities.png)
+![GMM](pictures/GMM_devide_angle_according_to_angle_frequency.png)
+![Best Routes](pictures/best_routes.png)
+![Progress](pictures/progress.gif)
+![Classified Cities](pictures/classfied_cities.png)
 ![TSP&TE](pictures/TSP&TE.png)
 
 # Background
