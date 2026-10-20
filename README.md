@@ -1,5 +1,5 @@
 # Quickview
-![Route search evolution on a static map](pictures/route_evolution.gif)
+![Route search evolution on a static map](pictures/route_evolution.gif?v=bbf84eb)
 ![GMM](pictures/GMM_devide_angle_according_to_angle_frequency.png)
 ![Progress](pictures/progress.gif)
 ![Classified Cities](pictures/classfied_cities.png)
